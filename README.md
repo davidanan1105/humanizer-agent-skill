@@ -1,3 +1,7 @@
+**For agents:** start from `SKILL.md`  
+**For humans:** start from `README.md`
+
+
 # humanizer-skill-zh
 
 一句话用途：用“Agent-first/渐进式披露”结构，把 AI 味文本改成更像人写的中文。  
